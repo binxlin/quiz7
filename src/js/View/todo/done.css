@@ -1,0 +1,7 @@
+.done {
+    color: rgb(0, 0, 0);
+    text-decoration: line-through;
+  }
+.undone {
+  color: #e21111;
+ }
